@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\bin\Release\netcoreapp3.1\APIMySQL.Data.deps.json
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\bin\Release\netcoreapp3.1\APIMySQL.Data.dll
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\bin\Release\netcoreapp3.1\APIMySQL.Data.pdb
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\bin\Release\netcoreapp3.1\APIMySQL.Model.dll
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\bin\Release\netcoreapp3.1\APIMySQL.Model.pdb
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.AssemblyInfo.cs
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.csproj.CopyComplete
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.dll
+C:\Users\Diego\source\repos\ApiRest_Ray\APIMySQL.Data\obj\Release\netcoreapp3.1\APIMySQL.Data.pdb
